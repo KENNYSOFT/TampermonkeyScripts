@@ -1,14 +1,13 @@
 // ==UserScript==
 // @name         KUSugangLeftMenuFixFreezing
 // @namespace    http://kennysoft.kr
-// @version      0.1
+// @version      170817
 // @description  고려대학교 수강신청 시스템 좌측 메뉴 비활성화 문제 해결
 // @author       KENNYSOFT
 // @match        http://sugang.korea.ac.kr/CourseInfoMenu.jsp
 // @grant        none
 // @updateURL    https://github.com/KENNYSOFT/TampermonkeyScripts/raw/master/KUSugangLeftMenuFixFreezing.user.js
 // @downloadURL  https://github.com/KENNYSOFT/TampermonkeyScripts/raw/master/KUSugangLeftMenuFixFreezing.user.js
-// @copyright    2017 KENNYSOFT
 // ==/UserScript==
 
 (function() {

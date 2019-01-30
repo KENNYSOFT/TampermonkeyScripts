@@ -1,14 +1,13 @@
 // ==UserScript==
 // @name         InsoyaComment6byte
 // @namespace    http://kennysoft.kr
-// @version      0.1
+// @version      170715
 // @description  인소야 댓글 6바이트 맞춰주기
 // @author       KENNYSOFT
 // @match        http://www.insoya.com/*
 // @grant        none
 // @updateURL    https://github.com/KENNYSOFT/TampermonkeyScripts/raw/master/InsoyaComment6byte.user.js
 // @downloadURL  https://github.com/KENNYSOFT/TampermonkeyScripts/raw/master/InsoyaComment6byte.user.js
-// @copyright    2017 KENNYSOFT
 // ==/UserScript==
 
 (function() {

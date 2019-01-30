@@ -1,14 +1,13 @@
 // ==UserScript==
 // @name         InsoyaMoreHomeShortcut
 // @namespace    http://kennysoft.kr
-// @version      0.1
+// @version      170823
 // @description  인소야 홈 단축키 추가
 // @author       KENNYSOFT
 // @match        http://www.insoya.com/*
 // @grant        none
 // @updateURL    https://github.com/KENNYSOFT/TampermonkeyScripts/raw/master/InsoyaMoreHomeShortcut.user.js
 // @downloadURL  https://github.com/KENNYSOFT/TampermonkeyScripts/raw/master/InsoyaMoreHomeShortcut.user.js
-// @copyright    2017 KENNYSOFT
 // ==/UserScript==
 
 (function() {

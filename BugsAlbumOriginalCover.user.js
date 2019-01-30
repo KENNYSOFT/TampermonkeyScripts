@@ -1,14 +1,13 @@
 // ==UserScript==
 // @name         BugsAlbumOriginalCover
 // @namespace    http://kennysoft.kr
-// @version      0.1
+// @version      171027
 // @description  벅스 앨범 커버 원본 이미지로 대체
 // @author       KENNYSOFT
 // @match        https://music.bugs.co.kr/album/*
 // @grant        none
 // @updateURL    https://github.com/KENNYSOFT/TampermonkeyScripts/raw/master/BugsAlbumOriginalCover.user.js
 // @downloadURL  https://github.com/KENNYSOFT/TampermonkeyScripts/raw/master/BugsAlbumOriginalCover.user.js
-// @copyright    2017 KENNYSOFT
 // ==/UserScript==
 
 (function() {
